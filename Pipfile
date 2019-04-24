@@ -5,6 +5,7 @@ name = "pypi"
 
 [dev-packages]
 pre-commit = "*"
+ipython = "*"
 
 [packages]
 django = "==2.2"
